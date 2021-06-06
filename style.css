@@ -24,6 +24,9 @@
 /*-----------------------------------
     1 - Header
 ------------------------------------*/
+body{
+background-color: rgba(26, 10, 56, 0.53);
+}
 header {
   background-color: rgba(26, 10, 56, 0.53);
   color: #fff;
